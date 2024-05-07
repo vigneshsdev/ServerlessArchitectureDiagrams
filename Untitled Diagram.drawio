@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-07T03:44:01.961Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="u4S83jbVDF6dJg5N0Tal" version="24.3.1" type="github" pages="2">
+<mxfile modified="2024-05-07T03:44:21.466Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="U7ALb11LxkDtW6d22qqO" version="24.3.1" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1492" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -148,24 +148,6 @@
         </mxCell>
         <mxCell id="18chFsnPca5tmtSWmL4l-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="-320" width="70" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="18chFsnPca5tmtSWmL4l-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="77" width="30" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="18chFsnPca5tmtSWmL4l-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="30" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="18chFsnPca5tmtSWmL4l-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="156" width="30" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="18chFsnPca5tmtSWmL4l-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="194" width="30" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="18chFsnPca5tmtSWmL4l-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="231.5" width="30" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="18chFsnPca5tmtSWmL4l-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="266" width="30" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
