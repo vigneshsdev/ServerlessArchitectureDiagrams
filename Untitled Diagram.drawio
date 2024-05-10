@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-10T14:03:40.574Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="JDiYE7LWQNhBIeMnh0H5" version="24.3.1" type="github" pages="5">
+<mxfile modified="2024-05-10T14:04:42.561Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="BRbaXC7sHJ7zuJqYFkLU" version="24.3.1" type="github" pages="5">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="746" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1506,6 +1506,12 @@
         </mxCell>
         <mxCell id="bIO-3EUQ0XONWlGsXUZA-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://webassets.mongodb.com/_com_assets/cms/certified%20twitter-4cdc75f11a.png;clipPath=inset(0% 52% 24.44% 6.67%);" vertex="1" parent="1">
           <mxGeometry x="610" y="560" width="85.13" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="bIO-3EUQ0XONWlGsXUZA-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIO-3EUQ0XONWlGsXUZA-11" value="&lt;b&gt;2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
